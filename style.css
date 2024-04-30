@@ -947,7 +947,7 @@ background: white;
 # Events
 --------------------------------------------------------------*/
 .events {
-  background: url(./assets/img/events/back_limpeza.jpg) no-repeat;
+  background: url(./assets/img/events/backEvent.jpg) no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;
