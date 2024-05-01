@@ -869,14 +869,14 @@ background: white;
   margin: 0 10px;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  /*color: #fff;*/
-  border: 2px solid #ffb03b;
-  background: #ffb13b39;
+  color: #fff;
+  border: 2px solid #ffb13be6;
+  background: #ffb03b;
 }
 
 #menu .btn-menu:hover,
 #menu .btn-book:hover {
-  background: #ffb03b;
+  background: #fd9c09;
   color: #fff;
 }
 
