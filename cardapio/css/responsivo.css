@@ -1,7 +1,10 @@
 
 /* Desktop (col-lg) 992px+ */
 @media (min-width: 992px) {
-
+    .banner .size-img {
+        max-width:20%;
+        
+    }
 }
 
 /* Desktop e Tablets (col-md) 768px a 991px */
@@ -17,6 +20,7 @@
 /* Tablets e Celulares (col) 0px a 767px */
 @media (max-width: 767px) {
 
+    
     .no-mobile {
         display: none!important;
     }

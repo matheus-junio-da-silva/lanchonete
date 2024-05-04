@@ -87,6 +87,19 @@ a.navbar-brand {
     padding-bottom: 200px;
 }
 
+.banner .size-img {
+    max-width:30%;
+    
+}
+
+.banner .border-img {
+    border-radius: 30%;
+    
+}
+
+
+
+
 .navbar-toggler {
     color: var(--color-black)!important;
 }
